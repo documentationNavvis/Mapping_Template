@@ -13,7 +13,7 @@ module.exports = {
       title: "NavVis IVION Documentation",
       logo: {
         alt: "NavVis Documentation",
-        src: "img/NavVis_Logo_Digital_White.svg",
+        src: "img/navvis-logo-new.svg",
       },
     },
     docs: {
