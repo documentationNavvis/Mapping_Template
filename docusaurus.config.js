@@ -13,7 +13,7 @@ module.exports = {
       title: "NavVis IVION Documentation",
       logo: {
         alt: "NavVis Documentation",
-        src: "img/IVION-Logo-negativeDesk.png",
+        src: "img/Logo-negativeDesk.png",
       },
     },
     docs: {
