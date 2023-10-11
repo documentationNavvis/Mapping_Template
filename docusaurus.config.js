@@ -1,5 +1,5 @@
 module.exports = {
-  title: "NavVis IVION Documentation",
+  title: "NavVis Documentation",
   tagline: "NavVis Webhelp",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
@@ -10,11 +10,12 @@ module.exports = {
   projectName: "navvis-docusaurus-template",
   themeConfig: {
     navbar: {
-      title: "NavVis IVION Documentation",
+      title: "NavVis Mapping",
       logo: {
         alt: "NavVis Documentation",
-        src: "img/Logo-negativeDesk.png",
+        src: "img/DeskTop.png",
       },
+     
     },
     docs: {
       sidebar: {
