@@ -3,10 +3,7 @@
 /* Text */
 :root[data-theme='light'] {
     --ifm-color-primary: rgb(25,121,228); /* Primary, left TOC inactive links */
-
-
 }
-
 
 /* Navbar */
 :root[data-theme='light'] #__docusaurus > nav.navbar {
