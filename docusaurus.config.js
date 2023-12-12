@@ -5,15 +5,15 @@ module.exports = {
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.svg",
+  favicon: "img/DESKTOP1.png",
   organizationName: "NavVis",
   projectName: "navvis-docusaurus-template",
   themeConfig: {
     navbar: {
       title: "NavVis IVION",
       logo: {
-        alt: "NavVis VLX Documentation",
-        src: "img/Navvis_Mapping.png",
+        alt: "NavVis Documentation",
+        src: "img/DESKTOP1.png",
       },
      
     },
